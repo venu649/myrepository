@@ -1,8 +1,15 @@
-{'message': 'success', 
- 'people': [{'name': 'Alexey Ovchinin', 'craft': 'ISS'},
-            {'name': 'Nick Hague', 'craft': 'ISS'},
-            {'name': 'Christina Koch', 'craft': 'ISS'}, 
-            {'name': 'Alexander Skvortsov', 'craft': 'ISS'}, 
-            {'name': 'Luca Parmitano', 'craft': 'ISS'}, 
-            {'name': 'Andrew Morgan', 'craft': 'ISS'}], 
-            'number': 6}
+
+{
+  "emp_details": [
+      {
+        "emp_name":"Anusha",
+        "email": "hello@gmail.com",
+        "job_profile":"intern"
+       },
+       {
+          "emp_name": "vinod",
+          "email":"vinnu@gmail.com",
+          "job_prifile":"developer"
+        }
+    ]
+}
